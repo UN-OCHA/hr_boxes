@@ -38,7 +38,7 @@ function hr_boxes_default_box() {
   $box->description = 'About';
   $box->options = array(
     'body' => array(
-      'value' => '<p><a href="http://www.humanitarianresponse.info" target="_blank">HumanitarianResponse.info</a> is provided by UN OCHA to support humanitarian operations globally</p><p><a href="http://www.humanitarianresponse.info/about" target="_blank">Learn more about HumanitarianResponse.info</a></p><p><a href="http://www.unocha.org" target="_blank"><img alt="OCHA logo" src="http://www.humanitarianresponse.info/sites/all/themes/humanitarianresponse/images/ocha.png"></a></p>',
+      'value' => '<p><a href="http://www.humanitarianresponse.info" target="_blank">HumanitarianResponse.info</a> is provided by UN OCHA to support humanitarian operations globally</p><p><a href="http://www.humanitarianresponse.info/about" target="_blank">Learn more about HumanitarianResponse.info</a></p><p><a href="http://www.unocha.org" target="_blank"><img alt="OCHA logo" src="https://www.humanitarianresponse.info/sites/all/themes/humanitarianresponse/images/ocha.png"></a></p>',
       'format' => 'full_html',
     ),
     'i18n_boxes' => array(
