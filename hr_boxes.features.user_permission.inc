@@ -15,6 +15,7 @@ function hr_boxes_user_default_permissions() {
     'name' => 'administer boxes',
     'roles' => array(
       'administrator' => 'administrator',
+      'manager' => 'manager',
     ),
     'module' => 'boxes',
   );
